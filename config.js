@@ -20,7 +20,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Archduke Franz Ferdinand of Austria, heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg, were assassinated on 28 June 1914 by Bosnian Serb student Gavrilo Princip. They were shot at close range while being driven through Sarajevo, the provincial capital of Bosnia and Herzegovina, formally annexed by Austria-Hungary in 1908.',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/1_naslovna.jpg',
+            image: './images/1_naslovna.jpg',
             description: 'The archduke Franz Ferdinand, as Inspector General of the Austro-Hungarian armed forces, arrived in Bosnia on June 25, 1914 to oversee military maneuvers and he was accompanied by his wife Sophie, Duchess of Hohenburg. <br> On 28th of June couple is supposed to officialy visit Sarajevo. <BR> Coincidentally, they also celebrated their 14th wedding anniversary on this day.',
             location: {
                 center: [18.23791, 43.64652],
@@ -50,7 +50,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '9:50 AM - The Arrival',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/2_sarajevo.png',
+            image: './images/2_sarajevo.png',
             description: 'On the morning of Sunday 28 June 1914, Franz Ferdinand and his party proceeded by train from Ilidža Spa, where they stayed, to Sarajevo. Governor Oskar Potiorek met the party at KuK Military Barracks as the train passed the train station and stopped there <BR> <I>There used to be a rail track from Train Station to Military Camp, areas on the map show where original locations were; Today this is area around Kolodvorska street where the train station was and University of Sarajevo Campus & US Embassy where the military camp was.',
             location: {
                 center: [18.39384, 43.85578],
@@ -204,7 +204,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/2_startna.jpg',
+            image: './images/2_startna.jpg',
             description: 'The motorcade`s first stop on the preannounced program was for a brief inspection of a military barracks. According to the program, at 10:00 AM,the motorcade was to leave the barracks for the town hall by way of the Appel Quay. Six automobiles were waiting. By mistake, three local police officers got into the first car with the chief officer of special security; the special security officers who were supposed to accompany their chief got left behind. The second car carried the Mayor and the Chief of Police of Sarajevo. The third car in the motorcade was a Gräf & Stift 28/32 PS open sports car with its top folded down. Franz Ferdinand, Sophie, Governor Potiorek, and Lieutenant Colonel Count Franz von Harrach rode in this third car.',
             location: {
                 center: [18.40162, 43.85537],
@@ -265,7 +265,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Assassins',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/3_atentatori.jpg',
+            image: './images/3_atentatori.jpg',
             description: 'The chief operative for the conspiracy in Sarajevo was Danilo Ilić. He made all the plans - and that was made easier by the fact that the route of the Archduke`s motorcade was published in the press. On the morning of Sunday 28 June 1914, Danilo Ilić positioned the six assassins along the motorcade route. Ilić walked the street, exhorting the assassins to bravery.',
             location: {
                 center: [18.42683, 43.85735],
@@ -312,7 +312,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/4_oruzije.jpeg',
+            image: './images/4_oruzije.jpeg',
             description: 'The motorcade passed the first assassin, Mehmedbašić. Danilo Ilić had placed him in front of the garden of the Mostar Café and armed him with a bomb. Mehmedbašić failed to act. Ilić had placed Vaso Čubrilović furhter down the street from Mehmedbašić, arming him with a pistol and a bomb. He too failed to act. Further along the route, Ilić had placed Nedeljko Čabrinović on the opposite side of the street near the Miljacka river, arming him with a bomb.',
             location: {
                 center: [18.42572, 43.85693],
@@ -352,7 +352,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The Bomb',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/4_kod_skole.png',
+            image: './images/4_kod_skole.png',
             description: 'At 10:10 AM, Franz Ferdinand`s car <I>(3rd car in the motorcade)</I> approached and Nedeljko Čabrinović made the first attempt. He throw a bomb on the motorcade. The bomb bounced off the folded back convertible cover into the street. The bomb`s timed detonator caused it to explode under the next car, putting that car out of action, leaving a 1-foot-diameter (0.30 m), 6.5-inch-deep (170 mm) crater, and wounding 16–20 people, including Franz Ferdinand`s aide-de-camp. Čabrinović swallowed his cyanide pill and jumped into the Miljacka river. Čabrinović`s suicide attempt failed, as the old cyanide only induced vomiting, and the Miljacka was only 13 cm deep due to the hot, dry summer. Police dragged Čabrinović out of the river, and he was severely beaten by the crowd before being taken into custody.',
             location: {
                 center: [18.42655, 43.85719],
@@ -451,7 +451,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Town Hall',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/6_vijecnica.jpg',
+            image: './images/6_vijecnica.jpg',
             description: 'Arriving at the Town Hall for a scheduled reception, Franz Ferdinand showed signs of stress, interrupting a prepared speech of welcome by Mayor Fehim Čurčić to protest: "Mr. Mayor, I came here on a visit and I am greeted with bombs. It is outrageous." Duchess Sophie then calmed Franz Ferdinand, and after a pause the mayor gave his speech. Franz Ferdinand had to wait as his own speech, still wet with blood from being in the damaged car, was brought to him. To the prepared text he added a few remarks about the day`s events thanking the people of Sarajevo for their ovations "as I see in them an expression of their joy at the failure of the attempt at assassination. Officials and members of the Archduke`s party discussed what to do next. The archduke`s chamberlain, Baron Rumerskirch, proposed that the couple remain at the Town Hall until troops could be brought into the city to line the streets. Governor-General Oskar Potiorek vetoed this suggestion on the grounds that soldiers coming straight from maneuvers would not have the dress uniforms appropriate for such duties. "Do you think that Sarajevo is full of assassins?" he concluded.',
             location: {
                 center: [18.43350, 43.85917],
@@ -482,7 +482,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Moritz Schiller Delicatessen',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/7_ms.jpg',
+            image: './images/7_ms.jpg',
             description: 'After learning that the first assassination attempt had been unsuccessful, Princip thought about a position to assassinate the Archduke on his return journey, and decided to move to a position in front of a nearby food shop (Schiller`s delicatessen), near the Latin Bridge. <BR> <I>Today, this is the spot where Sarajevo Museum 1878-1918 is.',
             location: {
                 center: [18.42883, 43.85785],
@@ -551,7 +551,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The New Plan',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/7_odlazak.png',
+            image: './images/7_odlazak.png',
             description: 'Franz Ferdinand and Sophie gave up their planned program in favor of visiting the wounded from the bombing, at the hospital. Count Harrach took up a position on the left-hand running board of Franz Ferdinand`s car to protect the Archduke from any assault from the river side of the street. At 10:45 a.m, Franz Ferdinand and Sophie got back into the motorcade, once again in the third car.In order to ensure the safety of the couple, General Oskar Potiorek decided that the imperial motorcade should travel straight along the Appel Quay to the Sarajevo Hospital so that they could avoid the crowded city center. However, Potiorek failed to communicate his decision to the drivers.',
             location: {
                 center: [18.42517, 43.85767],
@@ -604,7 +604,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Wrong Turn',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/3_last_photo.jpg',
+            image: './images/3_last_photo.jpg',
             description: 'As a result, the Archduke`s driver, Leopold Lojka, took a right turn at the Latin Bridge just as the two drivers ahead of him had done, following the original route. According to the historian Joachim Remak, the reason for this is that Potiorek`s aide Erik von Merizzi was in the hospital, and was therefore unable to give Lojka the information about the change in plans and the driving route. The Sarajevo Chief of Police Edmund Gerde, who had earlier repeatedly warned Potiorek of insufficient security precautions for the imperial visit, was asked by one of the Archduke`s aides to tell the drivers of the new route, but in the confusion and tensions of the moment, he neglected to do so. <BR> At this point, after the first and second cars of the Archduke`s motorcade suddenly turned right into a side street, leaving the Appel Quay and when the Archduke`s driver followed their route, Governor Potiorek, who was sharing the third vehicle with the Imperial couple, called out to the driver to stop as he was going the wrong way. The driver applied the brakes, and when he attempted to put the car into reverse gear he accidentally stalled the engine close to where Princip was standing, in front of the shop. <I>(some say, after he ate pastry at the Moritz Shiller Delikatessen. <BR> <I> Show is the last photo of Franz Ferdinand. The photographer was standing around 10 meters away from Schiller`s shop and Princip just before the wrong turn was made.',
             location: {
                 center: [18.42885, 43.85784],
@@ -676,7 +676,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Assassinations',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/4_car.jpg',
+            image: './images/4_car.jpg',
             description: 'The assassin stepped up to the footboard of the car, and shot Franz Ferdinand and Sophie at point‐blank range using a Belgian-made Fabrique Nationale model 1910 .380 caliber pistol. Pistol serial numbers 19074, 19075, 19120 and 19126 were supplied to the assassins; Princip used #19074. According to Albertini, "the first bullet wounded the Archduke in the jugular vein, the second inflicted an abdominal wound on the Duchess." Princip tried to shoot himself, but was immediately seized and arrested. At his sentencing, Princip stated that his intention had been to kill Governor Potiorek, rather than Sophie. <BR> <I> + on the car shows where the bullet penetrated the car door, before hitting Sofia.',
             location: {
                 center: [18.42885, 43.85784],
@@ -748,7 +748,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The End',
-            image: 'https://github.com/chancecontra/Sarajevo_1914/blob/main/images/10_theend.jpg',
+            image: './images/10_theend.jpg',
             description: 'After being shot, Sophie immediately fell unconscious and collapsed onto Franz Ferdinands legs. The Archduke, too, lost consciousness while being driven to the Governor`s residence for medical treatment. As reported by Count Harrach, Franz Ferdinand`s last words were "Sophie, Sophie! Don`t die! Live for our children!" followed by six or seven utterances of "It is nothing," in response to Harrach`s inquiry as to Franz Ferdinand`s injury. These utterances were followed by a violent choking sound caused by hemorrhage. The imperial couple were dead by 11:30 a.m on 28 June 1914; Sophie was dead on arrival at the Governor`s residence, and Franz Ferdinand died 10 minutes later.',
             location: {
                 center: [18.42932, 43.85750],
