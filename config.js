@@ -728,19 +728,16 @@ var config = {
                     layer: '3-changed-route',
                     opacity: 0,
                 },
-                {
-                    layer: 'gavrilo-princip',
-                    opacity: 0,
-                },
+                
                 {
                     layer: 'moritz-schiller',
                     opacity: 0,
                 },
+              
                 {
-                    layer: 'gavrilo-princip copy',
+                    layer: '2-city-hall',
                     opacity: 0,
                 },
-                
             ]
         },
         {
@@ -784,10 +781,7 @@ var config = {
             
         ],
             onChapterExit: [
-                {
-                    layer: '2-city-hall',
-                    opacity: 0,
-                },
+                
                                 
             ]
         },
