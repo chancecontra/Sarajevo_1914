@@ -94,7 +94,7 @@ var config = {
             id: '3-plan',
             alignment: 'left',
             hidden: false,
-            title: 'The plan',
+            title: 'The Plan',
             description: 'Based on the official schedule, the plan started with the visit to the Town Hall 10:10 - 10:30 AM...',
             location: {
                 center: [18.43350, 43.85917],
@@ -682,9 +682,8 @@ var config = {
                 center: [18.42885, 43.85784],
                 zoom: 19.45,
                 pitch: 59.07,
-                bearing: -12.0,
-                speed: 0.2,
-            },
+                bearing: -11.0,
+                            },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
@@ -777,7 +776,22 @@ var config = {
             
         ],
             onChapterExit: [
-                
+                {
+                    layer: '2-konak',
+                    opacity: 0,
+                },
+                {
+                    layer: '4-route-back',
+                    opacity: 0,
+                },
+                {
+                    layer: 'gavrilo-princip',
+                    opacity: 0,
+                },
+                {
+                    layer: 'gavrilo-princip copy',
+                    opacity: 0,
+                },
                                 
             ]
         },
@@ -785,7 +799,7 @@ var config = {
             id: '17-finale',
             alignment: 'center',
             hidden: false,
-            title: '',
+            title: 'The Aftermath',
             description: 'The assassinations, along with the arms race, nationalism, imperialism, militarism and the alliance system all contributed to the origins of World War I, which began a month after Franz Ferdinand`s death, with Austria-Hungary`s declaration of war against Serbia.The assassination of Franz Ferdinand is considered the most immediate cause of World War I. After his death, Archduke Karl became the heir presumptive of Austria-Hungary. Franz Ferdinand was buried with his wife Sophie in Artstetten Castle, Austria',
             location: {
                 center: [18.41685, 43.85800],
