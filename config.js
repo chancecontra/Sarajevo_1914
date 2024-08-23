@@ -21,7 +21,7 @@ var config = {
             hidden: false,
             title: 'Archduke Franz Ferdinand of Austria, heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg, were assassinated on 28 June 1914 by Bosnian Serb student Gavrilo Princip. They were shot at close range while being driven through Sarajevo, the provincial capital of Bosnia and Herzegovina, formally annexed by Austria-Hungary in 1908.',
             image: 'https://chancecontra.github.io/Sarajevo_1914/images/1_naslovna.png',
-            description: 'The archduke Franz Ferdinand, as Inspector General of the Austro-Hungarian armed forces, arrived in Bosnia on June 25, 1914 to oversee military maneuvers and he was accompanied by his wife Sophie, Duchess of Hohenburg. <br> On 28th of June couple is supposed to officialy visit Sarajevo. <BR> Coincidentally, they also celebrated their 14th wedding anniversary on this day.',
+            description: 'The archduke Franz Ferdinand, as Inspector General of the Austro-Hungarian armed forces, arrived in Bosnia on June 25, 1914 to oversee military maneuvers and he was accompanied by his wife Sophie, Duchess of Hohenburg. <br> On 28th of June couple is supposed to officially visit Sarajevo. <BR> Coincidentally, they also celebrated their 14th wedding anniversary on this day.',
             location: {
                 center: [18.23791, 43.64652],
                 zoom: 7.87,
