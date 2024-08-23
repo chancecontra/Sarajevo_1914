@@ -758,11 +758,7 @@ var config = {
             rotateAnimation: true,
             callback: '',
             onChapterEnter: [
-                {
-                layer: 'cars-2',
-                opacity: 0.8,
-            },
-            {
+                            {
                 layer: '2-konak',
                 opacity: 0.5,
             },
