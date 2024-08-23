@@ -673,7 +673,7 @@ var config = {
         },
         {
             id: '15-assassination',
-            alignment: 'left',
+            alignment: 'center',
             hidden: false,
             title: 'The Assassinations',
             image: 'https://chancecontra.github.io/Sarajevo_1914/images/4_car.png',
