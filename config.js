@@ -803,10 +803,10 @@ var config = {
             title: 'The Aftermath',
             description: 'The assassinations, along with the arms race, nationalism, imperialism, militarism and the alliance system all contributed to the origins of World War I, which began a month after Franz Ferdinand`s death, with Austria-Hungary`s declaration of war against Serbia.The assassination of Franz Ferdinand is considered the most immediate cause of World War I. After his death, Archduke Karl became the heir presumptive of Austria-Hungary. Franz Ferdinand was buried with his wife Sophie in Artstetten Castle, Austria',
             location: {
-                center: [18.41685, 43.85800],
+                center: [18.42882, 43.85780],
                 zoom: 16.00,
-                pitch: 51.44,
-                bearing: 9.38,
+                pitch: 60.42,
+                bearing: -32.22,
                 speed: 0.2,
             },
             mapAnimation: 'flyTo',
