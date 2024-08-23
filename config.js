@@ -605,7 +605,7 @@ var config = {
             hidden: false,
             title: 'The Wrong Turn',
             image: 'https://chancecontra.github.io/Sarajevo_1914/images/3_last_photo.png',
-            description: 'As a result, the Archduke`s driver, Leopold Lojka, took a right turn at the Latin Bridge just as the two drivers ahead of him had done, following the original route. According to the historian Joachim Remak, the reason for this is that Potiorek`s aide Erik von Merizzi was in the hospital, and was therefore unable to give Lojka the information about the change in plans and the driving route. The Sarajevo Chief of Police Edmund Gerde, who had earlier repeatedly warned Potiorek of insufficient security precautions for the imperial visit, was asked by one of the Archduke`s aides to tell the drivers of the new route, but in the confusion and tensions of the moment, he neglected to do so. <BR> At this point, after the first and second cars of the Archduke`s motorcade suddenly turned right into a side street, leaving the Appel Quay and when the Archduke`s driver followed their route, Governor Potiorek, who was sharing the third vehicle with the Imperial couple, called out to the driver to stop as he was going the wrong way. The driver applied the brakes, and when he attempted to put the car into reverse gear he accidentally stalled the engine close to where Princip was standing, in front of the shop. <I>(some say, after he ate pastry at the Moritz Shiller Delikatessen. <BR> <I> Show is the last photo of Franz Ferdinand. The photographer was standing around 10 meters away from Schiller`s shop and Princip just before the wrong turn was made.',
+            description: 'As a result, the Archduke`s driver, Leopold Lojka, took a right turn at the Latin Bridge just as the two drivers ahead of him had done, following the original route. According to the historian Joachim Remak, the reason for this is that Potiorek`s aide Erik von Merizzi was in the hospital, and was therefore unable to give Lojka the information about the change in plans and the driving route. The Sarajevo Chief of Police Edmund Gerde, who had earlier repeatedly warned Potiorek of insufficient security precautions for the imperial visit, was asked by one of the Archduke`s aides to tell the drivers of the new route, but in the confusion and tensions of the moment, he neglected to do so. <BR> At this point, after the first and second cars of the Archduke`s motorcade suddenly turned right into a side street, leaving the Appel Quay and when the Archduke`s driver followed their route, Governor Potiorek, who was sharing the third vehicle with the Imperial couple, called out to the driver to stop as he was going the wrong way. The driver applied the brakes, and when he attempted to put the car into reverse gear he accidentally stalled the engine close to where Princip was standing, in front of the shop. <I>(some say, after he ate pastry at the Moritz Shiller Delikatessen.) <BR> <I> Shown is the last photo of Franz Ferdinand. The photographer was standing around 10 meters away from Schiller`s shop and Princip just before the wrong turn was made.',
             location: {
                 center: [18.42885, 43.85784],
                 zoom: 19.45,
@@ -679,10 +679,11 @@ var config = {
             image: 'https://chancecontra.github.io/Sarajevo_1914/images/4_car.png',
             description: 'The assassin stepped up to the footboard of the car, and shot Franz Ferdinand and Sophie at point‐blank range using a Belgian-made Fabrique Nationale model 1910 .380 caliber pistol. Pistol serial numbers 19074, 19075, 19120 and 19126 were supplied to the assassins; Princip used #19074. According to Albertini, "the first bullet wounded the Archduke in the jugular vein, the second inflicted an abdominal wound on the Duchess." Princip tried to shoot himself, but was immediately seized and arrested. At his sentencing, Princip stated that his intention had been to kill Governor Potiorek, rather than Sophie. <BR> <I> + on the car shows where the bullet penetrated the car door, before hitting Sofia.',
             location: {
-                center: [18.42941, 43.85778],
-                zoom: 17.01,
-                pitch: 68.44,
-                bearing: -82.62,
+                center: [18.42885, 43.85784],
+                zoom: 19.45,
+                pitch: 59.07,
+                bearing: -11.0,
+                
                             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -803,7 +804,7 @@ var config = {
             description: 'The assassinations, along with the arms race, nationalism, imperialism, militarism and the alliance system all contributed to the origins of World War I, which began a month after Franz Ferdinand`s death, with Austria-Hungary`s declaration of war against Serbia.The assassination of Franz Ferdinand is considered the most immediate cause of World War I. After his death, Archduke Karl became the heir presumptive of Austria-Hungary. Franz Ferdinand was buried with his wife Sophie in Artstetten Castle, Austria',
             location: {
                 center: [18.41685, 43.85800],
-                zoom: 14.46,
+                zoom: 16.00,
                 pitch: 51.44,
                 bearing: 9.38,
                 speed: 0.2,
