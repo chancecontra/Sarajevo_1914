@@ -108,7 +108,7 @@ var config = {
             onChapterEnter: [
                 {
                     layer: '2-city-hall',
-                    opacity: 0.5,
+                    opacity: 0.3,
                 },
             ],
             onChapterExit: [
@@ -125,10 +125,10 @@ var config = {
             title: '',
             description: '...continued with opening and tour the new State Museum 10:40 - 11:40 AM...',
             location: {
-                center: [18.42555, 43.85917],
-                zoom: 18.47,
-                pitch: 67.01,
-                bearing: 121.61
+                center: [18.40243, 43.85498],
+                zoom: 18.50,
+                pitch: 64.50,
+                bearing: 53.60
             },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
@@ -136,11 +136,11 @@ var config = {
             onChapterEnter: [
                 {
                     layer: '2-city-hall',
-                    opacity: 0.5,
+                    opacity: 0.3,
                 },
                 {
                     layer: '2-museum',
-                    opacity: 0.5,
+                    opacity: 0.3,
                 },
             ],
             onChapterExit: [
@@ -172,11 +172,11 @@ var config = {
             onChapterEnter: [
                 {
                 layer: '2-city-hall',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '2-museum',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '1-planned-route',
@@ -218,11 +218,11 @@ var config = {
             onChapterEnter: [
                 {
                 layer: '2-city-hall',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '2-museum',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '1-planned-route',
@@ -280,11 +280,11 @@ var config = {
             onChapterEnter: [
                 {
                 layer: '2-city-hall',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '2-museum',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '1-planned-route',
@@ -327,7 +327,7 @@ var config = {
             onChapterEnter: [
                 {
                 layer: '2-city-hall',
-                opacity: 0.5,
+                opacity: 0.3,
             },
                         {
                 layer: '1-planned-route',
@@ -367,7 +367,7 @@ var config = {
             onChapterEnter: [
                 {
                 layer: '2-city-hall',
-                opacity: 0.5,
+                opacity: 0.3,
             },
                         {
                 layer: '1-planned-route',
@@ -413,7 +413,7 @@ var config = {
             onChapterEnter: [
                 {
                 layer: '2-city-hall',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '1-planned-route',
@@ -466,7 +466,7 @@ var config = {
             onChapterEnter: [
                 {
                     layer: '2-city-hall',
-                    opacity: 0.5,
+                    opacity: 0.3,
                 },
             ],
             onChapterExit: [
@@ -497,11 +497,11 @@ var config = {
             onChapterEnter: [
                 {
                 layer: '2-city-hall',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: 'moritz-schiller',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '1-planned-route',
@@ -566,12 +566,12 @@ var config = {
             onChapterEnter: [
                 {
                 layer: '2-city-hall',
-                opacity: 0.5,
+                opacity: 0.3,
             },
            
             {
                 layer: 'moritz-schiller',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '3-changed-route',
@@ -627,7 +627,7 @@ var config = {
             },
             {
                 layer: 'moritz-schiller',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '3-changed-route',
@@ -699,7 +699,7 @@ var config = {
             },
             {
                 layer: 'moritz-schiller',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '3-changed-route',
@@ -760,7 +760,7 @@ var config = {
             onChapterEnter: [
                             {
                 layer: '2-konak',
-                opacity: 0.5,
+                opacity: 0.3,
             },
             {
                 layer: '4-route-back',
