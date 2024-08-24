@@ -13,7 +13,7 @@ var config = {
     title: 'The Shot That Sparked a World War: The Assassination of Archduke Franz Ferdinand',
     subtitle: 'What happened on that Sunday morning?',
     byline: 'By Sead Borovina | 2024',
-    footer: 'Sources: <a href="https://www.arhivsa.ba/" target="_blank">Historijski Arhiv Sarajevo</a>, <a href="https://twitter.com/TheRestHistory" target="_blank">The Rest is History Podcast</a>, <a href="https://twitter.com/infinite_milos" target="_blank">Milos Vojinovic</a>, Wikipedia. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.<br> <a href="https://twitter.com/CapitaineFuture/" target="_blank">Sead Borovina</a>',
+    footer: 'Sources: <a href="https://www.arhivsa.ba/" target="_blank">Historijski Arhiv Sarajevo</a>, <a href="https://twitter.com/TheRestHistory" target="_blank">The Rest is History Podcast</a>, <a href="https://twitter.com/infinite_milos" target="_blank">Milos Vojinovic</a>, <a href="https://twitter.com/EmirOFilipovic" target="_blank">Emir O. Filipovic</a> Wikipedia. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.<br> <a href="https://twitter.com/CapitaineFuture/" target="_blank">Sead Borovina</a>',
     chapters: [
         {
             id: '1-intro',
